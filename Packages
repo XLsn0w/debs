@@ -19,3 +19,19 @@ Icon: https://raw.githubusercontent.com/Co2333/Saily-Store/master/Saily/AssSets/
 Name: Saily Store
 Sileodepiction: https://raw.githubusercontent.com/Co2333/Saily-Store/master/IO/Saily-ND.json
 
+Package: com.swiftyper.wechatredenvelop
+Version: 1.2.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: 请叫我小锅
+Installed-Size: 272
+Depends: mobilesubstrate
+Filename: debs/com.xlsn0w.wechat_redenvelop_1.2.1-1_iphoneos-arm.deb
+Size: 62560
+MD5sum: 844e4bcb42ad4fc10cf4c891d0de6c45
+SHA1: efa30b097c127804cffbb7c0a5e469c0a5c6b3e4
+SHA256: f5eaa3e116dfec7e332a309da7a9390e486bd1d172f4114419b7ede72ab91593
+Section: Tweaks
+Description: 微信抢红包插件
+Author: 请叫我小锅
+Name: WeChatRedEnvelop
+

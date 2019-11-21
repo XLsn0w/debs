@@ -1,18 +1,18 @@
-Package: com.xlsn0w.wechatcatchredenvelop
+Package: com.xlsn0w.wxhb
 Version: 2.0.0-1+debug
 Architecture: iphoneos-arm
 Maintainer: XLsn0w
 Installed-Size: 272
 Depends: mobilesubstrate
-Filename: debs/com.xlsn0w.wechatcatchredenvelop_2.0.0-1+debug_iphoneos-arm.deb
-Size: 62548
-MD5sum: 6445746dcd0788480d120e48556256f8
-SHA1: 64b2b905de3aca840777188e454e18ac202079b3
-SHA256: af366948209f08703315b4e0f488c5505b401776d8e14779402f96cefafe1091
+Filename: debs/com.xlsn0w.wxhb_2.0.0-1+debug_iphoneos-arm.deb
+Size: 62524
+MD5sum: efc43c761d1c5ee7592ad5657f8f77d2
+SHA1: c41dd8729268ea117baede1aaa0cb1b1ea9aaa0b
+SHA256: 37acc4efb339a70e84323db9803fc37389f4689682c8bf411dd8f848b20d08e8
 Section: Tweaks
 Description: 微信抢红包插件
 Author: XLsn0w
-Name: WeChatRedEnvelop
+Name: 微信抢红包
 
 Package: com.xlsn0w.wxhelper
 Version: 1.0.1-1+debug

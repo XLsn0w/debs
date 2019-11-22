@@ -30,6 +30,22 @@ Description: 微信自动抢红包助手
 Author: XLsn0w
 Name: 微信自动抢红包助手
 
+Package: com.xlsn0w.wxjbtweak
+Version: 1.0.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: XLsn0w
+Installed-Size: 140
+Depends: mobilesubstrate
+Filename: debs/com.xlsn0w.wxjbtweak_1.0.0-1+debug_iphoneos-arm.deb
+Size: 10776
+MD5sum: 72187b205610bf816c7cc9045b1282ad
+SHA1: f7e6b5aefcc86574aaff3c2ae3845bace5f3b0cd
+SHA256: 63b6494ba71b3dfd321abbe438f430f5a1b5847351f0f1fbcce55b8520abcdcf
+Section: Tweaks
+Description: 抢红包功能:[当前只支持对进入的聊天会话抢红包，比如进入群聊A，那只能抢群聊A的，不能抢其他聊天会话的，如果不进入任何聊天会话，就不会抢任何红包];短视频:[朋友圈视频默认是只能录制6秒，现在安装插件以后可以录制30秒]
+Author: XLsn0w_QQ946434404
+Name: 微信自动抢红包插件
+
 Package: com.xlsn0w.wxmanager
 Version: 2.0.0-1+debug
 Architecture: ios

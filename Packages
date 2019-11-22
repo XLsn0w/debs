@@ -30,6 +30,22 @@ Description: 微信自动抢红包助手
 Author: XLsn0w
 Name: 微信自动抢红包助手
 
+Package: com.xlsn0w.wxhongbao
+Version: 3.0.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: XLsn0w
+Installed-Size: 504
+Depends: mobilesubstrate
+Filename: debs/com.xlsn0w.wxhongbao_3.0.0-1+debug_iphoneos-arm.deb
+Size: 144390
+MD5sum: fc82b7c9891cc04f6a0cd5faefebe60d
+SHA1: 55224406227e61330b3e1a861af4091df8be0355
+SHA256: 8a97c8bb201aa3b5d3b16e4887260bb100014428a45ef2598f8be18fff3aee3b
+Section: Tweaks
+Description: 微信自动抢红包助手
+Author: XLsn0w
+Name: 微信自动抢红包助手
+
 Package: com.xlsn0w.wxjbtweak
 Version: 1.0.0-1+debug
 Architecture: iphoneos-arm

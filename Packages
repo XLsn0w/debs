@@ -1,3 +1,19 @@
+Package: com.xlsn0w.dingtalkgpsfaker
+Version: 0.0.1-1
+Architecture: iosre
+Maintainer: XLsn0w
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.xlsn0w.dingtalkgpsfaker_0.0.1-1_iosre.deb
+Size: 4996
+MD5sum: 41d1df9ad26c5ab18d864d599d3c27d3
+SHA1: 51929999f2147bf61302080f00cf5b21c7ac8e20
+SHA256: 7e7d45a93992d491789265ba911843b31c658906d9f567ef30a4b64e8dc02d06
+Section: iosre
+Description: 钉钉打卡 伪装GPS
+Author: XLsn0w
+Name: 钉钉打卡伪装
+
 Package: com.xlsn0w.flex
 Version: 1.0.1-1
 Architecture: iphoneos-arm

@@ -1,3 +1,19 @@
+Package: com.xlsn0w.flex
+Version: 1.0.1-1
+Architecture: iphoneos-arm
+Maintainer: XLsn0w
+Installed-Size: 1784
+Depends: mobilesubstrate
+Filename: debs/com.xlsn0w.flex_1.0.1-1_iphoneos-arm.deb
+Size: 614406
+MD5sum: 92b9f9f22efe002f080b559c517649f0
+SHA1: 8bf439a16097b57c8de92fa5f3e4a936222ab670
+SHA256: 599e7f2e76abb8e31bf1b44eb76b90edb3b08b87accd2abb160326656b4cfebe
+Section: XLsn0w
+Description: FLEX deb插件版
+Author: XLsn0w
+Name: FLEX
+
 Package: com.xlsn0w.wxhb
 Version: 2.0.0-1+debug
 Architecture: iphoneos-arm

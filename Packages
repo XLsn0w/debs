@@ -14,6 +14,22 @@ Description: 钉钉打卡 伪装GPS
 Author: XLsn0w
 Name: 钉钉打卡伪装
 
+Package: com.xlsn0w.dingtalkhelper
+Version: 0.0.2-1
+Architecture: iosre
+Maintainer: XLsn0w
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: debs/com.xlsn0w.dingtalkhelper_0.0.2-1_iosre.deb
+Size: 52366
+MD5sum: 9911daf808c682a5aebcb9c269eebd8e
+SHA1: 8ff90f7605bef37fd21f92a2c75fc42ce581113a
+SHA256: ae778d2ef4e928a4c7f9b135840e76d078d4ef049fadd88312dcf7d681e79bdc
+Section: iosre
+Description: 钉钉打卡助手 GPS WiFi伪装
+Author: XLsn0w
+Name: 钉钉助手
+
 Package: com.xlsn0w.flex
 Version: 1.0.1-1
 Architecture: iphoneos-arm
